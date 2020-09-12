@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 #where you wnat to create the environment
 virtualenv environment_name
 
@@ -32,7 +31,6 @@ rd= remove dir
 pip install -r requirements.txt
 
 #to see files 
-=======
 #where you wnat to create the environment
 virtualenv environment_name
 
@@ -66,5 +64,4 @@ rd= remove dir
 pip install -r requirements.txt
 
 #to see files 
->>>>>>> fd236f1... Basics of List,Tuple,Set
 pip list
