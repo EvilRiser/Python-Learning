@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 #Unordered and no duplicates
 s1 = {'History','math','Physics'}
 
@@ -17,7 +16,7 @@ print(s1.difference(s3))
 print(s1.union(s3))
 
 es = set()
-=======
+
 #Unordered and no duplicates
 s1 = {'History','math','Physics'}
 
@@ -36,5 +35,5 @@ print(s1.difference(s3))
 print(s1.union(s3))
 
 es = set()
->>>>>>> fd236f1... Basics of List,Tuple,Set
+
 es1 = {}  # wrong method it will create dictionary
