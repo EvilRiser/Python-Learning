@@ -93,5 +93,4 @@ print(mess)
 
 print(dir(g))
 
->>>>>>> fd236f1... Basics of List,Tuple,Set
 print(help(str))
