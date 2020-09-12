@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 #Mutable
 l1 = ['History','math','Physics']
 l2 = l1
@@ -27,7 +26,7 @@ t3 = tuple()
 t4 = ()
 print(type(t3))
 print(type(t4))
-=======
+
 #Mutable
 l1 = ['History','math','Physics']
 l2 = l1
@@ -56,4 +55,3 @@ t3 = tuple()
 t4 = ()
 print(type(t3))
 print(type(t4))
->>>>>>> fd236f1... Basics of List,Tuple,Set
