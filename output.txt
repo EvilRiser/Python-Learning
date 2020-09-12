@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 hello byee
-=======
-hello byee
->>>>>>> fd236f1... Basics of List,Tuple,Set
