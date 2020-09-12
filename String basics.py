@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 print("hello World")
 message = "hello world"
 print(message)
@@ -46,7 +45,7 @@ print(mess)
 
 print(dir(g))
 
-=======
+
 print("hello World")
 message = "hello world"
 print(message)
