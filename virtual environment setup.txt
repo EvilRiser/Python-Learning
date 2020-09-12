@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #where you wnat to create the environment
 virtualenv environment_name
 
@@ -31,4 +32,39 @@ rd= remove dir
 pip install -r requirements.txt
 
 #to see files 
+=======
+#where you wnat to create the environment
+virtualenv environment_name
+
+# to activate the environment
+.\env\Scripts\activate
+
+# to check the env
+where python
+
+#to deactivate
+deactivate
+
+# Now install all the packages you want to install
+
+
+# to create requirement.txt file with their version no
+
+pip freeze --local > requirements.txt
+
+#to remove that env
+first deactive it
+-> rd /s /q env_name
+name can be in quotes also
+
+rd= remove dir
+/s= Removes the specified directory and all subdirectories including any files. Use /s to remove a tree.
+/q= Runs rmdir in quiet mode. Deletes directories without confirmation.
+
+
+# to install the requirements file
+pip install -r requirements.txt
+
+#to see files 
+>>>>>>> fd236f1... Basics of List,Tuple,Set
 pip list
