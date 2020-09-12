@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 num = 3
 print(type(num))
 
@@ -94,4 +93,3 @@ print(num1+num2)
 
 #casting
 print(int(num1)+int(num2))
->>>>>>> fd236f1... Basics of List,Tuple,Set
