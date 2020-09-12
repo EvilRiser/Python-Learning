@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 #list: append, insert, extend, .sort(),sorted, 
 #      min, max, sum, index, in
 
@@ -100,7 +99,7 @@ print(new_l)
 
 # creating empty list 
 l = []
-=======
+
 #list: append, insert, extend, .sort(),sorted, 
 #      min, max, sum, index, in
 
@@ -202,5 +201,5 @@ print(new_l)
 
 # creating empty list 
 l = []
->>>>>>> fd236f1... Basics of List,Tuple,Set
+
 el= list()
